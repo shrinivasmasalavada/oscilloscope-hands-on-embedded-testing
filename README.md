@@ -8,7 +8,7 @@ EMBO consists of 3 primary devices (oscilloscope, logic analyzer, voltmeter) and
 This work was created as part of my master thesis at FEE CTU in Prague (Department of Measurement) under the supervision of doc. Fischer and with the help of Ing. Hladík from STMicroelectronics. I would like to thank them for perfect support. Whole EMBO is published under the MIT license.
 
 Supported MCUs:
-
+ 
 STM32F103C8
 STM32F103RE
 STM32F303RE
